@@ -1,0 +1,4442 @@
+{
+    "#033149": {
+        "color": "#033149",
+        "start_frame": 130,
+        "end_frame": 249,
+        "start_ts": 2.1666666666666665,
+        "end_ts": 4.15,
+        "color_num": 1,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#93d6c5": {
+        "color": "#93d6c5",
+        "start_frame": 250,
+        "end_frame": 399,
+        "start_ts": 4.166666666666667,
+        "end_ts": 6.65,
+        "color_num": 2,
+        "transcript": [
+            [
+                "\u05de\u05e0\u05d3\u05d4",
+                0.4053277373313904
+            ]
+        ]
+    },
+    "#f2a8b9": {
+        "color": "#f2a8b9",
+        "start_frame": 400,
+        "end_frame": 519,
+        "start_ts": 6.666666666666667,
+        "end_ts": 8.65,
+        "color_num": 3,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.6946146488189697
+            ]
+        ]
+    },
+    "#cab9d9": {
+        "color": "#cab9d9",
+        "start_frame": 520,
+        "end_frame": 669,
+        "start_ts": 8.666666666666666,
+        "end_ts": 11.15,
+        "color_num": 4,
+        "transcript": [
+            [
+                "\u05dc\u05d9\u05dc\u05da",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#8ee47f": {
+        "color": "#8ee47f",
+        "start_frame": 670,
+        "end_frame": 759,
+        "start_ts": 11.166666666666666,
+        "end_ts": 12.65,
+        "color_num": 5,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9415698647499084
+            ]
+        ]
+    },
+    "#0ead91": {
+        "color": "#0ead91",
+        "start_frame": 760,
+        "end_frame": 909,
+        "start_ts": 12.666666666666666,
+        "end_ts": 15.15,
+        "color_num": 6,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e4c908": {
+        "color": "#e4c908",
+        "start_frame": 910,
+        "end_frame": 1029,
+        "start_ts": 15.166666666666666,
+        "end_ts": 17.15,
+        "color_num": 7,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05d1",
+                0.9332393407821655
+            ]
+        ]
+    },
+    "#a5a5a5": {
+        "color": "#a5a5a5",
+        "start_frame": 1030,
+        "end_frame": 1119,
+        "start_ts": 17.166666666666668,
+        "end_ts": 18.65,
+        "color_num": 8,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05d5\u05e8",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#da5278": {
+        "color": "#da5278",
+        "start_frame": 1120,
+        "end_frame": 1239,
+        "start_ts": 18.666666666666668,
+        "end_ts": 20.65,
+        "color_num": 9,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#471717": {
+        "color": "#471717",
+        "start_frame": 1240,
+        "end_frame": 1329,
+        "start_ts": 20.666666666666668,
+        "end_ts": 22.15,
+        "color_num": 10,
+        "transcript": [
+            [
+                "\u05e7\u05d5\u05dd",
+                0.5501915812492371
+            ]
+        ]
+    },
+    "#4d092e": {
+        "color": "#4d092e",
+        "start_frame": 1330,
+        "end_frame": 1509,
+        "start_ts": 22.166666666666668,
+        "end_ts": 25.15,
+        "color_num": 11,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#c7edd6": {
+        "color": "#c7edd6",
+        "start_frame": 1510,
+        "end_frame": 1749,
+        "start_ts": 25.166666666666668,
+        "end_ts": 29.15,
+        "color_num": 12,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.34954777359962463
+            ]
+        ]
+    },
+    "#9d75b4": {
+        "color": "#9d75b4",
+        "start_frame": 1750,
+        "end_frame": 1869,
+        "start_ts": 29.166666666666668,
+        "end_ts": 31.15,
+        "color_num": 13,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.8747074007987976
+            ]
+        ]
+    },
+    "#1a321c": {
+        "color": "#1a321c",
+        "start_frame": 1870,
+        "end_frame": 1959,
+        "start_ts": 31.166666666666668,
+        "end_ts": 32.65,
+        "color_num": 14,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9427725076675415
+            ]
+        ]
+    },
+    "#a30649": {
+        "color": "#a30649",
+        "start_frame": 1960,
+        "end_frame": 2109,
+        "start_ts": 32.666666666666664,
+        "end_ts": 35.15,
+        "color_num": 15,
+        "transcript": [
+            [
+                "\u05e4\u05d5\u05e7\u05e1\u05d9\u05d4",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#a6c9dd": {
+        "color": "#a6c9dd",
+        "start_frame": 2110,
+        "end_frame": 2229,
+        "start_ts": 35.166666666666664,
+        "end_ts": 37.15,
+        "color_num": 16,
+        "transcript": []
+    },
+    "#6e3c85": {
+        "color": "#6e3c85",
+        "start_frame": 2230,
+        "end_frame": 2319,
+        "start_ts": 37.166666666666664,
+        "end_ts": 38.65,
+        "color_num": 17,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9469640851020813
+            ]
+        ]
+    },
+    "#096f62": {
+        "color": "#096f62",
+        "start_frame": 2320,
+        "end_frame": 2439,
+        "start_ts": 38.666666666666664,
+        "end_ts": 40.65,
+        "color_num": 18,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#076394": {
+        "color": "#076394",
+        "start_frame": 2440,
+        "end_frame": 2529,
+        "start_ts": 40.666666666666664,
+        "end_ts": 42.15,
+        "color_num": 19,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#33b531": {
+        "color": "#33b531",
+        "start_frame": 2530,
+        "end_frame": 2649,
+        "start_ts": 42.166666666666664,
+        "end_ts": 44.15,
+        "color_num": 20,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9387329816818237
+            ]
+        ]
+    },
+    "#f2f2f2": {
+        "color": "#f2f2f2",
+        "start_frame": 2650,
+        "end_frame": 2739,
+        "start_ts": 44.166666666666664,
+        "end_ts": 45.65,
+        "color_num": 21,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.7650982737541199
+            ]
+        ]
+    },
+    "#dddfeb": {
+        "color": "#dddfeb",
+        "start_frame": 2740,
+        "end_frame": 2859,
+        "start_ts": 45.666666666666664,
+        "end_ts": 47.65,
+        "color_num": 22,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.7486617565155029
+            ]
+        ]
+    },
+    "#645416": {
+        "color": "#645416",
+        "start_frame": 2860,
+        "end_frame": 3039,
+        "start_ts": 47.666666666666664,
+        "end_ts": 50.65,
+        "color_num": 23,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.6836878061294556
+            ]
+        ]
+    },
+    "#e3542c": {
+        "color": "#e3542c",
+        "start_frame": 3040,
+        "end_frame": 3159,
+        "start_ts": 50.666666666666664,
+        "end_ts": 52.65,
+        "color_num": 24,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.617369532585144
+            ]
+        ]
+    },
+    "#256e25": {
+        "color": "#256e25",
+        "start_frame": 3160,
+        "end_frame": 3249,
+        "start_ts": 52.666666666666664,
+        "end_ts": 54.15,
+        "color_num": 25,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.7099710702896118
+            ]
+        ]
+    },
+    "#f7aa98": {
+        "color": "#f7aa98",
+        "start_frame": 3250,
+        "end_frame": 3369,
+        "start_ts": 54.166666666666664,
+        "end_ts": 56.15,
+        "color_num": 26,
+        "transcript": []
+    },
+    "#f2dec6": {
+        "color": "#f2dec6",
+        "start_frame": 3370,
+        "end_frame": 3549,
+        "start_ts": 56.166666666666664,
+        "end_ts": 59.15,
+        "color_num": 27,
+        "transcript": [
+            [
+                "\u05e9\u05de\u05e0\u05ea",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#9f1f02": {
+        "color": "#9f1f02",
+        "start_frame": 3550,
+        "end_frame": 3729,
+        "start_ts": 59.166666666666664,
+        "end_ts": 62.15,
+        "color_num": 28,
+        "transcript": [
+            [
+                "\u05d0\u05d3\u05d5\u05dd",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#a28c03": {
+        "color": "#a28c03",
+        "start_frame": 3730,
+        "end_frame": 3879,
+        "start_ts": 62.166666666666664,
+        "end_ts": 64.65,
+        "color_num": 29,
+        "transcript": [
+            [
+                "\u05d7\u05e8\u05d3\u05dc",
+                0.9392274618148804
+            ]
+        ]
+    },
+    "#212121": {
+        "color": "#212121",
+        "start_frame": 3880,
+        "end_frame": 3999,
+        "start_ts": 64.66666666666667,
+        "end_ts": 66.65,
+        "color_num": 30,
+        "transcript": [
+            [
+                "\u05e9\u05d7\u05d5\u05e8",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#289ccf": {
+        "color": "#289ccf",
+        "start_frame": 4000,
+        "end_frame": 4089,
+        "start_ts": 66.66666666666667,
+        "end_ts": 68.15,
+        "color_num": 31,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.9012970328330994
+            ]
+        ]
+    },
+    "#df7bbb": {
+        "color": "#df7bbb",
+        "start_frame": 4090,
+        "end_frame": 4209,
+        "start_ts": 68.16666666666667,
+        "end_ts": 70.15,
+        "color_num": 32,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.3781675100326538
+            ]
+        ]
+    },
+    "#0c8894": {
+        "color": "#0c8894",
+        "start_frame": 4210,
+        "end_frame": 4329,
+        "start_ts": 70.16666666666667,
+        "end_ts": 72.15,
+        "color_num": 33,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#2c281c": {
+        "color": "#2c281c",
+        "start_frame": 4330,
+        "end_frame": 4539,
+        "start_ts": 72.16666666666667,
+        "end_ts": 75.65,
+        "color_num": 34,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9199739098548889
+            ]
+        ]
+    },
+    "#6a7e03": {
+        "color": "#6a7e03",
+        "start_frame": 4540,
+        "end_frame": 4629,
+        "start_ts": 75.66666666666667,
+        "end_ts": 77.15,
+        "color_num": 35,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.2494553178548813
+            ]
+        ]
+    },
+    "#322f8a": {
+        "color": "#322f8a",
+        "start_frame": 4630,
+        "end_frame": 4779,
+        "start_ts": 77.16666666666667,
+        "end_ts": 79.65,
+        "color_num": 36,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#9ca0d0": {
+        "color": "#9ca0d0",
+        "start_frame": 4780,
+        "end_frame": 4929,
+        "start_ts": 79.66666666666667,
+        "end_ts": 82.15,
+        "color_num": 37,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.2659342885017395
+            ]
+        ]
+    },
+    "#3b431c": {
+        "color": "#3b431c",
+        "start_frame": 4930,
+        "end_frame": 5019,
+        "start_ts": 82.16666666666667,
+        "end_ts": 83.65,
+        "color_num": 38,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.936141848564148
+            ]
+        ]
+    },
+    "#cbe9eb": {
+        "color": "#cbe9eb",
+        "start_frame": 5020,
+        "end_frame": 5199,
+        "start_ts": 83.66666666666667,
+        "end_ts": 86.65,
+        "color_num": 39,
+        "transcript": []
+    },
+    "#760c30": {
+        "color": "#760c30",
+        "start_frame": 5200,
+        "end_frame": 5379,
+        "start_ts": 86.66666666666667,
+        "end_ts": 89.65,
+        "color_num": 40,
+        "transcript": [
+            [
+                "\u05d1\u05d5\u05e8\u05d3\u05d5",
+                0.7693722248077393
+            ]
+        ]
+    },
+    "#045836": {
+        "color": "#045836",
+        "start_frame": 5380,
+        "end_frame": 5559,
+        "start_ts": 89.66666666666667,
+        "end_ts": 92.65,
+        "color_num": 41,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9370195865631104
+            ]
+        ]
+    },
+    "#eed8db": {
+        "color": "#eed8db",
+        "start_frame": 5560,
+        "end_frame": 5739,
+        "start_ts": 92.66666666666667,
+        "end_ts": 95.65,
+        "color_num": 42,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e0f187": {
+        "color": "#e0f187",
+        "start_frame": 5740,
+        "end_frame": 5859,
+        "start_ts": 95.66666666666667,
+        "end_ts": 97.65,
+        "color_num": 43,
+        "transcript": [
+            [
+                "\u05e6\u05d4\u05d5\u05d1",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#565656": {
+        "color": "#565656",
+        "start_frame": 5860,
+        "end_frame": 5979,
+        "start_ts": 97.66666666666667,
+        "end_ts": 99.65,
+        "color_num": 44,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05d5\u05e8",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#ac3d89": {
+        "color": "#ac3d89",
+        "start_frame": 5980,
+        "end_frame": 6069,
+        "start_ts": 99.66666666666667,
+        "end_ts": 101.15,
+        "color_num": 45,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.5562536716461182
+            ]
+        ]
+    },
+    "#62bbbf": {
+        "color": "#62bbbf",
+        "start_frame": 6070,
+        "end_frame": 6219,
+        "start_ts": 101.16666666666667,
+        "end_ts": 103.65,
+        "color_num": 46,
+        "transcript": [
+            [
+                "\u05d7\u05e0\u05d9\u05ea",
+                0.4051365256309509
+            ]
+        ]
+    },
+    "#ebdbe5": {
+        "color": "#ebdbe5",
+        "start_frame": 6220,
+        "end_frame": 6339,
+        "start_ts": 103.66666666666667,
+        "end_ts": 105.65,
+        "color_num": 47,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#5e66b1": {
+        "color": "#5e66b1",
+        "start_frame": 6340,
+        "end_frame": 6489,
+        "start_ts": 105.66666666666667,
+        "end_ts": 108.15,
+        "color_num": 48,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#583412": {
+        "color": "#583412",
+        "start_frame": 6490,
+        "end_frame": 6579,
+        "start_ts": 108.16666666666667,
+        "end_ts": 109.65,
+        "color_num": 49,
+        "transcript": []
+    },
+    "#3b144b": {
+        "color": "#3b144b",
+        "start_frame": 6580,
+        "end_frame": 6699,
+        "start_ts": 109.66666666666667,
+        "end_ts": 111.65,
+        "color_num": 50,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#04352f": {
+        "color": "#04352f",
+        "start_frame": 6700,
+        "end_frame": 6879,
+        "start_ts": 111.66666666666667,
+        "end_ts": 114.65,
+        "color_num": 51,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9399405121803284
+            ]
+        ]
+    },
+    "#4dca92": {
+        "color": "#4dca92",
+        "start_frame": 6880,
+        "end_frame": 7029,
+        "start_ts": 114.66666666666667,
+        "end_ts": 117.15,
+        "color_num": 52,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#9e5e04": {
+        "color": "#9e5e04",
+        "start_frame": 7030,
+        "end_frame": 7149,
+        "start_ts": 117.16666666666667,
+        "end_ts": 119.15,
+        "color_num": 53,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.7048547267913818
+            ]
+        ]
+    },
+    "#ea9006": {
+        "color": "#ea9006",
+        "start_frame": 7150,
+        "end_frame": 7269,
+        "start_ts": 119.16666666666667,
+        "end_ts": 121.15,
+        "color_num": 54,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.9282847046852112
+            ]
+        ]
+    },
+    "#9fbd05": {
+        "color": "#9fbd05",
+        "start_frame": 7270,
+        "end_frame": 7359,
+        "start_ts": 121.16666666666667,
+        "end_ts": 122.65,
+        "color_num": 55,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.43071675300598145
+            ]
+        ]
+    },
+    "#c72851": {
+        "color": "#c72851",
+        "start_frame": 7360,
+        "end_frame": 7479,
+        "start_ts": 122.66666666666667,
+        "end_ts": 124.65,
+        "color_num": 56,
+        "transcript": [
+            [
+                "\u05de\u05e8\u05d5\u05df",
+                0.33145833015441895
+            ]
+        ]
+    },
+    "#6b1254": {
+        "color": "#6b1254",
+        "start_frame": 7480,
+        "end_frame": 7629,
+        "start_ts": 124.66666666666667,
+        "end_ts": 127.15,
+        "color_num": 57,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#0a935b": {
+        "color": "#0a935b",
+        "start_frame": 7630,
+        "end_frame": 7749,
+        "start_ts": 127.16666666666667,
+        "end_ts": 129.15,
+        "color_num": 58,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9425768256187439
+            ]
+        ]
+    },
+    "#064f58": {
+        "color": "#064f58",
+        "start_frame": 7750,
+        "end_frame": 7869,
+        "start_ts": 129.16666666666666,
+        "end_ts": 131.15,
+        "color_num": 59,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e2828e": {
+        "color": "#e2828e",
+        "start_frame": 7870,
+        "end_frame": 7989,
+        "start_ts": 131.16666666666666,
+        "end_ts": 133.15,
+        "color_num": 60,
+        "transcript": []
+    },
+    "#757a04": {
+        "color": "#757a04",
+        "start_frame": 7990,
+        "end_frame": 8109,
+        "start_ts": 133.16666666666666,
+        "end_ts": 135.15,
+        "color_num": 61,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9426316022872925
+            ]
+        ]
+    },
+    "#c68ac8": {
+        "color": "#c68ac8",
+        "start_frame": 8110,
+        "end_frame": 8289,
+        "start_ts": 135.16666666666666,
+        "end_ts": 138.15,
+        "color_num": 62,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#6a541b": {
+        "color": "#6a541b",
+        "start_frame": 8290,
+        "end_frame": 8409,
+        "start_ts": 138.16666666666666,
+        "end_ts": 140.15,
+        "color_num": 63,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.8511878252029419
+            ]
+        ]
+    },
+    "#5f5b14": {
+        "color": "#5f5b14",
+        "start_frame": 8410,
+        "end_frame": 8499,
+        "start_ts": 140.16666666666666,
+        "end_ts": 141.65,
+        "color_num": 64,
+        "transcript": []
+    },
+    "#64260d": {
+        "color": "#64260d",
+        "start_frame": 8500,
+        "end_frame": 8619,
+        "start_ts": 141.66666666666666,
+        "end_ts": 143.65,
+        "color_num": 65,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.8762431740760803
+            ]
+        ]
+    },
+    "#292c21": {
+        "color": "#292c21",
+        "start_frame": 29800,
+        "end_frame": 29949,
+        "start_ts": 496.6666666666667,
+        "end_ts": 499.15,
+        "color_num": 226,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.8385341763496399
+            ]
+        ]
+    },
+    "#045626": {
+        "color": "#045626",
+        "start_frame": 8740,
+        "end_frame": 8859,
+        "start_ts": 145.66666666666666,
+        "end_ts": 147.65,
+        "color_num": 67,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.941402018070221
+            ]
+        ]
+    },
+    "#8a6b11": {
+        "color": "#8a6b11",
+        "start_frame": 8860,
+        "end_frame": 8979,
+        "start_ts": 147.66666666666666,
+        "end_ts": 149.65,
+        "color_num": 68,
+        "transcript": [
+            [
+                "\u05d7\u05d0\u05e7\u05d9",
+                0.3969888389110565
+            ]
+        ]
+    },
+    "#cbeed0": {
+        "color": "#cbeed0",
+        "start_frame": 8980,
+        "end_frame": 9189,
+        "start_ts": 149.66666666666666,
+        "end_ts": 153.15,
+        "color_num": 69,
+        "transcript": [
+            [
+                "\u05de\u05e0\u05d8\u05d4",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#033438": {
+        "color": "#033438",
+        "start_frame": 9190,
+        "end_frame": 9339,
+        "start_ts": 153.16666666666666,
+        "end_ts": 155.65,
+        "color_num": 70,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#7e59a9": {
+        "color": "#7e59a9",
+        "start_frame": 9340,
+        "end_frame": 9459,
+        "start_ts": 155.66666666666666,
+        "end_ts": 157.65,
+        "color_num": 71,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#0a9554": {
+        "color": "#0a9554",
+        "start_frame": 9460,
+        "end_frame": 9609,
+        "start_ts": 157.66666666666666,
+        "end_ts": 160.15,
+        "color_num": 72,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.8985821604728699
+            ]
+        ]
+    },
+    "#09869a": {
+        "color": "#09869a",
+        "start_frame": 9610,
+        "end_frame": 9729,
+        "start_ts": 160.16666666666666,
+        "end_ts": 162.15,
+        "color_num": 73,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#dc526c": {
+        "color": "#dc526c",
+        "start_frame": 9730,
+        "end_frame": 9879,
+        "start_ts": 162.16666666666666,
+        "end_ts": 164.65,
+        "color_num": 74,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.7495423555374146
+            ]
+        ]
+    },
+    "#47c999": {
+        "color": "#47c999",
+        "start_frame": 9880,
+        "end_frame": 10119,
+        "start_ts": 164.66666666666666,
+        "end_ts": 168.65,
+        "color_num": 75,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.7368242144584656
+            ]
+        ]
+    },
+    "#054c62": {
+        "color": "#054c62",
+        "start_frame": 10120,
+        "end_frame": 10269,
+        "start_ts": 168.66666666666666,
+        "end_ts": 171.15,
+        "color_num": 76,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#bbde08": {
+        "color": "#bbde08",
+        "start_frame": 10270,
+        "end_frame": 10359,
+        "start_ts": 171.16666666666666,
+        "end_ts": 172.65,
+        "color_num": 77,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05d1",
+                0.9161113500595093
+            ]
+        ]
+    },
+    "#ebdbde": {
+        "color": "#ebdbde",
+        "start_frame": 20020,
+        "end_frame": 20139,
+        "start_ts": 333.6666666666667,
+        "end_ts": 335.65,
+        "color_num": 152,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.6833195090293884
+            ]
+        ]
+    },
+    "#500919": {
+        "color": "#500919",
+        "start_frame": 10510,
+        "end_frame": 10629,
+        "start_ts": 175.16666666666666,
+        "end_ts": 177.15,
+        "color_num": 79,
+        "transcript": [
+            [
+                "\u05d1\u05d5\u05e8\u05d3\u05d5",
+                0.760620653629303
+            ]
+        ]
+    },
+    "#d9eea3": {
+        "color": "#d9eea3",
+        "start_frame": 10630,
+        "end_frame": 10809,
+        "start_ts": 177.16666666666666,
+        "end_ts": 180.15,
+        "color_num": 80,
+        "transcript": [
+            [
+                "\u05e7\u05e8\u05dd",
+                0.45401298999786377
+            ]
+        ]
+    },
+    "#c0296c": {
+        "color": "#c0296c",
+        "start_frame": 10810,
+        "end_frame": 10929,
+        "start_ts": 180.16666666666666,
+        "end_ts": 182.15,
+        "color_num": 81,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.3355482816696167
+            ]
+        ]
+    },
+    "#baaf07": {
+        "color": "#baaf07",
+        "start_frame": 10930,
+        "end_frame": 11049,
+        "start_ts": 182.16666666666666,
+        "end_ts": 184.15,
+        "color_num": 82,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05d1",
+                0.8191215991973877
+            ]
+        ]
+    },
+    "#7e0016": {
+        "color": "#7e0016",
+        "start_frame": 11050,
+        "end_frame": 11169,
+        "start_ts": 184.16666666666666,
+        "end_ts": 186.15,
+        "color_num": 83,
+        "transcript": [
+            [
+                "\u05d0\u05d3\u05d5\u05dd",
+                0.5884738564491272
+            ]
+        ]
+    },
+    "#066869": {
+        "color": "#066869",
+        "start_frame": 11170,
+        "end_frame": 11289,
+        "start_ts": 186.16666666666666,
+        "end_ts": 188.15,
+        "color_num": 84,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#dcaedc": {
+        "color": "#dcaedc",
+        "start_frame": 11290,
+        "end_frame": 11409,
+        "start_ts": 188.16666666666666,
+        "end_ts": 190.15,
+        "color_num": 85,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.5399941802024841
+            ]
+        ]
+    },
+    "#023821": {
+        "color": "#023821",
+        "start_frame": 11410,
+        "end_frame": 11529,
+        "start_ts": 190.16666666666666,
+        "end_ts": 192.15,
+        "color_num": 86,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9424395561218262
+            ]
+        ]
+    },
+    "#48611f": {
+        "color": "#48611f",
+        "start_frame": 11530,
+        "end_frame": 11619,
+        "start_ts": 192.16666666666666,
+        "end_ts": 193.65,
+        "color_num": 87,
+        "transcript": [
+            [
+                "\u200fyahoo",
+                0.35775992274284363
+            ]
+        ]
+    },
+    "#750b39": {
+        "color": "#750b39",
+        "start_frame": 11620,
+        "end_frame": 11859,
+        "start_ts": 193.66666666666666,
+        "end_ts": 197.65,
+        "color_num": 88,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#0bb088": {
+        "color": "#0bb088",
+        "start_frame": 11860,
+        "end_frame": 12009,
+        "start_ts": 197.66666666666666,
+        "end_ts": 200.15,
+        "color_num": 89,
+        "transcript": [
+            [
+                "\u05ea\u05d5\u05db\u05d9",
+                0.4569418430328369
+            ]
+        ]
+    },
+    "#03372a": {
+        "color": "#03372a",
+        "start_frame": 12010,
+        "end_frame": 12099,
+        "start_ts": 200.16666666666666,
+        "end_ts": 201.65,
+        "color_num": 90,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9425972104072571
+            ]
+        ]
+    },
+    "#05407c": {
+        "color": "#05407c",
+        "start_frame": 12100,
+        "end_frame": 12189,
+        "start_ts": 201.66666666666666,
+        "end_ts": 203.15,
+        "color_num": 91,
+        "transcript": []
+    },
+    "#1f3318": {
+        "color": "#1f3318",
+        "start_frame": 12190,
+        "end_frame": 12309,
+        "start_ts": 203.16666666666666,
+        "end_ts": 205.15,
+        "color_num": 92,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9081217646598816
+            ]
+        ]
+    },
+    "#951d64": {
+        "color": "#951d64",
+        "start_frame": 12310,
+        "end_frame": 12429,
+        "start_ts": 205.16666666666666,
+        "end_ts": 207.15,
+        "color_num": 93,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#77ace2": {
+        "color": "#77ace2",
+        "start_frame": 12430,
+        "end_frame": 12519,
+        "start_ts": 207.16666666666666,
+        "end_ts": 208.65,
+        "color_num": 94,
+        "transcript": []
+    },
+    "#cf88c2": {
+        "color": "#cf88c2",
+        "start_frame": 12520,
+        "end_frame": 12639,
+        "start_ts": 208.66666666666666,
+        "end_ts": 210.65,
+        "color_num": 95,
+        "transcript": [
+            [
+                "\u05de\u05d0\u05d5\u05d3",
+                0.3493507206439972
+            ]
+        ]
+    },
+    "#d75287": {
+        "color": "#d75287",
+        "start_frame": 12640,
+        "end_frame": 12729,
+        "start_ts": 210.66666666666666,
+        "end_ts": 212.15,
+        "color_num": 96,
+        "transcript": [
+            [
+                "\u200fbraude",
+                0.25065815448760986
+            ]
+        ]
+    },
+    "#033148": {
+        "color": "#033148",
+        "start_frame": 12730,
+        "end_frame": 12849,
+        "start_ts": 212.16666666666666,
+        "end_ts": 214.15,
+        "color_num": 97,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#055147": {
+        "color": "#055147",
+        "start_frame": 12850,
+        "end_frame": 12999,
+        "start_ts": 214.16666666666666,
+        "end_ts": 216.65,
+        "color_num": 98,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#b97f04": {
+        "color": "#b97f04",
+        "start_frame": 13000,
+        "end_frame": 13149,
+        "start_ts": 216.66666666666666,
+        "end_ts": 219.15,
+        "color_num": 99,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.8986298441886902
+            ]
+        ]
+    },
+    "#a95404": {
+        "color": "#a95404",
+        "start_frame": 13150,
+        "end_frame": 13269,
+        "start_ts": 219.16666666666666,
+        "end_ts": 221.15,
+        "color_num": 100,
+        "transcript": [
+            [
+                "\u05e7\u05d3\u05dd",
+                0.5917024612426758
+            ]
+        ]
+    },
+    "#efe784": {
+        "color": "#efe784",
+        "start_frame": 13270,
+        "end_frame": 13449,
+        "start_ts": 221.16666666666666,
+        "end_ts": 224.15,
+        "color_num": 101,
+        "transcript": [
+            [
+                "\u05e6\u05d4\u05d5\u05d1",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#5f8cd0": {
+        "color": "#5f8cd0",
+        "start_frame": 13450,
+        "end_frame": 13569,
+        "start_ts": 224.16666666666666,
+        "end_ts": 226.15,
+        "color_num": 102,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.7713236212730408
+            ]
+        ]
+    },
+    "#eb8555": {
+        "color": "#eb8555",
+        "start_frame": 13570,
+        "end_frame": 13719,
+        "start_ts": 226.16666666666666,
+        "end_ts": 228.65,
+        "color_num": 103,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.8550611138343811
+            ]
+        ]
+    },
+    "#65cc57": {
+        "color": "#65cc57",
+        "start_frame": 13720,
+        "end_frame": 13809,
+        "start_ts": 228.66666666666666,
+        "end_ts": 230.15,
+        "color_num": 104,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9152082800865173
+            ]
+        ]
+    },
+    "#a4121d": {
+        "color": "#a4121d",
+        "start_frame": 13810,
+        "end_frame": 13929,
+        "start_ts": 230.16666666666666,
+        "end_ts": 232.15,
+        "color_num": 105,
+        "transcript": [
+            [
+                "\u05d0\u05d3\u05d5\u05dd",
+                0.9233407974243164
+            ]
+        ]
+    },
+    "#ccd508": {
+        "color": "#ccd508",
+        "start_frame": 13930,
+        "end_frame": 14049,
+        "start_ts": 232.16666666666666,
+        "end_ts": 234.15,
+        "color_num": 106,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05d1",
+                0.4636085629463196
+            ]
+        ]
+    },
+    "#c7edde": {
+        "color": "#c7edde",
+        "start_frame": 14050,
+        "end_frame": 14169,
+        "start_ts": 234.16666666666666,
+        "end_ts": 236.15,
+        "color_num": 107,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.9253643751144409
+            ]
+        ]
+    },
+    "#7ae891": {
+        "color": "#7ae891",
+        "start_frame": 14170,
+        "end_frame": 14379,
+        "start_ts": 236.16666666666666,
+        "end_ts": 239.65,
+        "color_num": 108,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.34137827157974243
+            ]
+        ]
+    },
+    "#741712": {
+        "color": "#741712",
+        "start_frame": 14380,
+        "end_frame": 14529,
+        "start_ts": 239.66666666666666,
+        "end_ts": 242.15,
+        "color_num": 109,
+        "transcript": [
+            [
+                "\u05d1\u05d5\u05e8\u05d3\u05d5",
+                0.45736804604530334
+            ]
+        ]
+    },
+    "#098d80": {
+        "color": "#098d80",
+        "start_frame": 14530,
+        "end_frame": 14709,
+        "start_ts": 242.16666666666666,
+        "end_ts": 245.15,
+        "color_num": 110,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#df9906": {
+        "color": "#df9906",
+        "start_frame": 14710,
+        "end_frame": 14859,
+        "start_ts": 245.16666666666666,
+        "end_ts": 247.65,
+        "color_num": 111,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.9324789047241211
+            ]
+        ]
+    },
+    "#e1e1e1": {
+        "color": "#e1e1e1",
+        "start_frame": 14860,
+        "end_frame": 14979,
+        "start_ts": 247.66666666666666,
+        "end_ts": 249.65,
+        "color_num": 112,
+        "transcript": [
+            [
+                "\u05e1\u05d1\u05df",
+                0.5790726542472839
+            ]
+        ]
+    },
+    "#84e1a8": {
+        "color": "#84e1a8",
+        "start_frame": 14980,
+        "end_frame": 15099,
+        "start_ts": 249.66666666666666,
+        "end_ts": 251.65,
+        "color_num": 113,
+        "transcript": [
+            [
+                "\u05de\u05e0\u05d8\u05d4",
+                0.8164386749267578
+            ]
+        ]
+    },
+    "#43cca2": {
+        "color": "#43cca2",
+        "start_frame": 15100,
+        "end_frame": 15249,
+        "start_ts": 251.66666666666666,
+        "end_ts": 254.15,
+        "color_num": 114,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#c72b40": {
+        "color": "#c72b40",
+        "start_frame": 15250,
+        "end_frame": 15399,
+        "start_ts": 254.16666666666666,
+        "end_ts": 256.65,
+        "color_num": 115,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.5473702549934387
+            ]
+        ]
+    },
+    "#087732": {
+        "color": "#087732",
+        "start_frame": 15400,
+        "end_frame": 15489,
+        "start_ts": 256.6666666666667,
+        "end_ts": 258.15,
+        "color_num": 116,
+        "transcript": [
+            [
+                "\u05d9\u05d5\u05e8\u05d5",
+                0.4524478614330292
+            ]
+        ]
+    },
+    "#2f1a52": {
+        "color": "#2f1a52",
+        "start_frame": 15490,
+        "end_frame": 15759,
+        "start_ts": 258.1666666666667,
+        "end_ts": 262.65,
+        "color_num": 117,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#163321": {
+        "color": "#163321",
+        "start_frame": 15760,
+        "end_frame": 15879,
+        "start_ts": 262.6666666666667,
+        "end_ts": 264.65,
+        "color_num": 118,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9387442469596863
+            ]
+        ]
+    },
+    "#a33f97": {
+        "color": "#a33f97",
+        "start_frame": 15880,
+        "end_frame": 15969,
+        "start_ts": 264.6666666666667,
+        "end_ts": 266.15,
+        "color_num": 119,
+        "transcript": [
+            [
+                "\u05e1\u05d3\u05e8\u05d5\u05ea",
+                0.39583125710487366
+            ]
+        ]
+    },
+    "#d2edca": {
+        "color": "#d2edca",
+        "start_frame": 15970,
+        "end_frame": 16119,
+        "start_ts": 266.1666666666667,
+        "end_ts": 268.65,
+        "color_num": 120,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#8853a3": {
+        "color": "#8853a3",
+        "start_frame": 16120,
+        "end_frame": 16239,
+        "start_ts": 268.6666666666667,
+        "end_ts": 270.65,
+        "color_num": 121,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#c1bcdc": {
+        "color": "#c1bcdc",
+        "start_frame": 16240,
+        "end_frame": 16389,
+        "start_ts": 270.6666666666667,
+        "end_ts": 273.15,
+        "color_num": 122,
+        "transcript": [
+            [
+                "\u05dc\u05d9\u05dc\u05da",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#3a2512": {
+        "color": "#3a2512",
+        "start_frame": 16390,
+        "end_frame": 16509,
+        "start_ts": 273.1666666666667,
+        "end_ts": 275.15,
+        "color_num": 123,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.5957309603691101
+            ]
+        ]
+    },
+    "#076e6a": {
+        "color": "#076e6a",
+        "start_frame": 16510,
+        "end_frame": 16689,
+        "start_ts": 275.1666666666667,
+        "end_ts": 278.15,
+        "color_num": 124,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#7d421a": {
+        "color": "#7d421a",
+        "start_frame": 16690,
+        "end_frame": 16779,
+        "start_ts": 278.1666666666667,
+        "end_ts": 279.65,
+        "color_num": 125,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.9392010569572449
+            ]
+        ]
+    },
+    "#db82a0": {
+        "color": "#db82a0",
+        "start_frame": 16780,
+        "end_frame": 16899,
+        "start_ts": 279.6666666666667,
+        "end_ts": 281.65,
+        "color_num": 126,
+        "transcript": [
+            [
+                "\u05de\u05d0\u05d5\u05d3",
+                0.49453580379486084
+            ]
+        ]
+    },
+    "#83e1af": {
+        "color": "#83e1af",
+        "start_frame": 16900,
+        "end_frame": 17079,
+        "start_ts": 281.6666666666667,
+        "end_ts": 284.65,
+        "color_num": 127,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.6877298951148987
+            ]
+        ]
+    },
+    "#f17f64": {
+        "color": "#f17f64",
+        "start_frame": 17080,
+        "end_frame": 17229,
+        "start_ts": 284.6666666666667,
+        "end_ts": 287.15,
+        "color_num": 128,
+        "transcript": [
+            [
+                "\u05e7\u05d8\u05df",
+                0.23903824388980865
+            ]
+        ]
+    },
+    "#31291c": {
+        "color": "#31291c",
+        "start_frame": 17230,
+        "end_frame": 17469,
+        "start_ts": 287.1666666666667,
+        "end_ts": 291.15,
+        "color_num": 129,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.6907006502151489
+            ]
+        ]
+    },
+    "#74a204": {
+        "color": "#74a204",
+        "start_frame": 17470,
+        "end_frame": 17559,
+        "start_ts": 291.1666666666667,
+        "end_ts": 292.65,
+        "color_num": 130,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5",
+                0.3274955153465271
+            ]
+        ]
+    },
+    "#374521": {
+        "color": "#374521",
+        "start_frame": 17560,
+        "end_frame": 17679,
+        "start_ts": 292.6666666666667,
+        "end_ts": 294.65,
+        "color_num": 131,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9381574392318726
+            ]
+        ]
+    },
+    "#e08195": {
+        "color": "#e08195",
+        "start_frame": 17680,
+        "end_frame": 17769,
+        "start_ts": 294.6666666666667,
+        "end_ts": 296.15,
+        "color_num": 132,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.5489996671676636
+            ]
+        ]
+    },
+    "#af68b6": {
+        "color": "#af68b6",
+        "start_frame": 17770,
+        "end_frame": 17889,
+        "start_ts": 296.1666666666667,
+        "end_ts": 298.15,
+        "color_num": 133,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.8343866467475891
+            ]
+        ]
+    },
+    "#55c887": {
+        "color": "#55c887",
+        "start_frame": 17890,
+        "end_frame": 18009,
+        "start_ts": 298.1666666666667,
+        "end_ts": 300.15,
+        "color_num": 134,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9370715618133545
+            ]
+        ]
+    },
+    "#9aced9": {
+        "color": "#9aced9",
+        "start_frame": 18010,
+        "end_frame": 18129,
+        "start_ts": 300.1666666666667,
+        "end_ts": 302.15,
+        "color_num": 135,
+        "transcript": [
+            [
+                "\u05e7\u05e0\u05d9\u05ea",
+                0.38322392106056213
+            ]
+        ]
+    },
+    "#3ac9ad": {
+        "color": "#3ac9ad",
+        "start_frame": 18130,
+        "end_frame": 18279,
+        "start_ts": 302.1666666666667,
+        "end_ts": 304.65,
+        "color_num": 136,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#74357c": {
+        "color": "#74357c",
+        "start_frame": 18280,
+        "end_frame": 18369,
+        "start_ts": 304.6666666666667,
+        "end_ts": 306.15,
+        "color_num": 137,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#f1dbd0": {
+        "color": "#f1dbd0",
+        "start_frame": 18370,
+        "end_frame": 18549,
+        "start_ts": 306.1666666666667,
+        "end_ts": 309.15,
+        "color_num": 138,
+        "transcript": []
+    },
+    "#27af5a": {
+        "color": "#27af5a",
+        "start_frame": 18550,
+        "end_frame": 18639,
+        "start_ts": 309.1666666666667,
+        "end_ts": 310.65,
+        "color_num": 139,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9161359667778015
+            ]
+        ]
+    },
+    "#06543a": {
+        "color": "#06543a",
+        "start_frame": 18640,
+        "end_frame": 18759,
+        "start_ts": 310.6666666666667,
+        "end_ts": 312.65,
+        "color_num": 140,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9422383904457092
+            ]
+        ]
+    },
+    "#04457d": {
+        "color": "#04457d",
+        "start_frame": 18760,
+        "end_frame": 18849,
+        "start_ts": 312.6666666666667,
+        "end_ts": 314.15,
+        "color_num": 141,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#043339": {
+        "color": "#043339",
+        "start_frame": 18850,
+        "end_frame": 18969,
+        "start_ts": 314.1666666666667,
+        "end_ts": 316.15,
+        "color_num": 142,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#d5ebc5": {
+        "color": "#d5ebc5",
+        "start_frame": 18970,
+        "end_frame": 19059,
+        "start_ts": 316.1666666666667,
+        "end_ts": 317.65,
+        "color_num": 143,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#edabc6": {
+        "color": "#edabc6",
+        "start_frame": 19060,
+        "end_frame": 19179,
+        "start_ts": 317.6666666666667,
+        "end_ts": 319.65,
+        "color_num": 144,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.768388032913208
+            ]
+        ]
+    },
+    "#56370b": {
+        "color": "#56370b",
+        "start_frame": 19180,
+        "end_frame": 19269,
+        "start_ts": 319.6666666666667,
+        "end_ts": 321.15,
+        "color_num": 145,
+        "transcript": [
+            [
+                "\u05e7\u05d5\u05dd",
+                0.4121537208557129
+            ]
+        ]
+    },
+    "#0aa7ae": {
+        "color": "#0aa7ae",
+        "start_frame": 19270,
+        "end_frame": 19389,
+        "start_ts": 321.1666666666667,
+        "end_ts": 323.15,
+        "color_num": 146,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#cee6ea": {
+        "color": "#cee6ea",
+        "start_frame": 19390,
+        "end_frame": 19539,
+        "start_ts": 323.1666666666667,
+        "end_ts": 325.65,
+        "color_num": 147,
+        "transcript": [
+            [
+                "\u05d7\u05dc\u05ea",
+                0.11993544548749924
+            ]
+        ]
+    },
+    "#95d2d5": {
+        "color": "#95d2d5",
+        "start_frame": 19540,
+        "end_frame": 19659,
+        "start_ts": 325.6666666666667,
+        "end_ts": 327.65,
+        "color_num": 148,
+        "transcript": []
+    },
+    "#e4dce9": {
+        "color": "#e4dce9",
+        "start_frame": 19660,
+        "end_frame": 19809,
+        "start_ts": 327.6666666666667,
+        "end_ts": 330.15,
+        "color_num": 149,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#5c2f18": {
+        "color": "#5c2f18",
+        "start_frame": 19810,
+        "end_frame": 19899,
+        "start_ts": 330.1666666666667,
+        "end_ts": 331.65,
+        "color_num": 150,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.35718464851379395
+            ]
+        ]
+    },
+    "#dc525f": {
+        "color": "#dc525f",
+        "start_frame": 19900,
+        "end_frame": 20019,
+        "start_ts": 331.6666666666667,
+        "end_ts": 333.65,
+        "color_num": 151,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.26224029064178467
+            ]
+        ]
+    },
+    "#cc6b1a": {
+        "color": "#cc6b1a",
+        "start_frame": 20140,
+        "end_frame": 20259,
+        "start_ts": 335.6666666666667,
+        "end_ts": 337.65,
+        "color_num": 153,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.8918464183807373
+            ]
+        ]
+    },
+    "#c42660": {
+        "color": "#c42660",
+        "start_frame": 20260,
+        "end_frame": 20379,
+        "start_ts": 337.6666666666667,
+        "end_ts": 339.65,
+        "color_num": 154,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#898989": {
+        "color": "#898989",
+        "start_frame": 20380,
+        "end_frame": 20499,
+        "start_ts": 339.6666666666667,
+        "end_ts": 341.65,
+        "color_num": 155,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05d5\u05e8",
+                0.5208311080932617
+            ]
+        ]
+    },
+    "#04486f": {
+        "color": "#04486f",
+        "start_frame": 20500,
+        "end_frame": 20589,
+        "start_ts": 341.6666666666667,
+        "end_ts": 343.15,
+        "color_num": 156,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e05c07": {
+        "color": "#e05c07",
+        "start_frame": 20590,
+        "end_frame": 20679,
+        "start_ts": 343.1666666666667,
+        "end_ts": 344.65,
+        "color_num": 157,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.611393928527832
+            ]
+        ]
+    },
+    "#971d56": {
+        "color": "#971d56",
+        "start_frame": 20680,
+        "end_frame": 20799,
+        "start_ts": 344.6666666666667,
+        "end_ts": 346.65,
+        "color_num": 158,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.4320559501647949
+            ]
+        ]
+    },
+    "#065aa3": {
+        "color": "#065aa3",
+        "start_frame": 20800,
+        "end_frame": 20889,
+        "start_ts": 346.6666666666667,
+        "end_ts": 348.15,
+        "color_num": 159,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#06514d": {
+        "color": "#06514d",
+        "start_frame": 20890,
+        "end_frame": 21039,
+        "start_ts": 348.1666666666667,
+        "end_ts": 350.65,
+        "color_num": 160,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9417414665222168
+            ]
+        ]
+    },
+    "#0cb37b": {
+        "color": "#0cb37b",
+        "start_frame": 21040,
+        "end_frame": 21159,
+        "start_ts": 350.6666666666667,
+        "end_ts": 352.65,
+        "color_num": 161,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.6168408989906311
+            ]
+        ]
+    },
+    "#893a11": {
+        "color": "#893a11",
+        "start_frame": 21160,
+        "end_frame": 21279,
+        "start_ts": 352.6666666666667,
+        "end_ts": 354.65,
+        "color_num": 162,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.4498652219772339
+            ]
+        ]
+    },
+    "#022e4b": {
+        "color": "#022e4b",
+        "start_frame": 21280,
+        "end_frame": 21399,
+        "start_ts": 354.6666666666667,
+        "end_ts": 356.65,
+        "color_num": 163,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#7c7503": {
+        "color": "#7c7503",
+        "start_frame": 21400,
+        "end_frame": 21549,
+        "start_ts": 356.6666666666667,
+        "end_ts": 359.15,
+        "color_num": 164,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.94202721118927
+            ]
+        ]
+    },
+    "#f4a9b0": {
+        "color": "#f4a9b0",
+        "start_frame": 21550,
+        "end_frame": 21639,
+        "start_ts": 359.1666666666667,
+        "end_ts": 360.65,
+        "color_num": 165,
+        "transcript": [
+            [
+                "\u05e4\u05e8\u05d5\u05d3",
+                0.14087654650211334
+            ]
+        ]
+    },
+    "#7ce0be": {
+        "color": "#7ce0be",
+        "start_frame": 21640,
+        "end_frame": 21789,
+        "start_ts": 360.6666666666667,
+        "end_ts": 363.15,
+        "color_num": 166,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#f4ad8f": {
+        "color": "#f4ad8f",
+        "start_frame": 21790,
+        "end_frame": 21909,
+        "start_ts": 363.1666666666667,
+        "end_ts": 365.15,
+        "color_num": 167,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05e8\u05e1\u05e7",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#2b2b2b": {
+        "color": "#2b2b2b",
+        "start_frame": 21910,
+        "end_frame": 22089,
+        "start_ts": 365.1666666666667,
+        "end_ts": 368.15,
+        "color_num": 168,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05d5\u05e8",
+                0.8441571593284607
+            ]
+        ]
+    },
+    "#432b77": {
+        "color": "#432b77",
+        "start_frame": 22090,
+        "end_frame": 22209,
+        "start_ts": 368.1666666666667,
+        "end_ts": 370.15,
+        "color_num": 169,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.4990108907222748
+            ]
+        ]
+    },
+    "#829c03": {
+        "color": "#829c03",
+        "start_frame": 22210,
+        "end_frame": 22299,
+        "start_ts": 370.1666666666667,
+        "end_ts": 371.65,
+        "color_num": 170,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9364831447601318
+            ]
+        ]
+    },
+    "#38174c": {
+        "color": "#38174c",
+        "start_frame": 22300,
+        "end_frame": 22419,
+        "start_ts": 371.6666666666667,
+        "end_ts": 373.65,
+        "color_num": 171,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#34271e": {
+        "color": "#34271e",
+        "start_frame": 22420,
+        "end_frame": 22509,
+        "start_ts": 373.6666666666667,
+        "end_ts": 375.15,
+        "color_num": 172,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.520821213722229
+            ]
+        ]
+    },
+    "#947abb": {
+        "color": "#947abb",
+        "start_frame": 22510,
+        "end_frame": 22629,
+        "start_ts": 375.1666666666667,
+        "end_ts": 377.15,
+        "color_num": 173,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9486541748046875
+            ]
+        ]
+    },
+    "#e7abcf": {
+        "color": "#e7abcf",
+        "start_frame": 22630,
+        "end_frame": 22749,
+        "start_ts": 377.1666666666667,
+        "end_ts": 379.15,
+        "color_num": 174,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9307423233985901
+            ]
+        ]
+    },
+    "#4e0727": {
+        "color": "#4e0727",
+        "start_frame": 22750,
+        "end_frame": 22869,
+        "start_ts": 379.1666666666667,
+        "end_ts": 381.15,
+        "color_num": 175,
+        "transcript": [
+            [
+                "\u05d1\u05d5\u05e8\u05d3\u05d5",
+                0.7515044808387756
+            ]
+        ]
+    },
+    "#023431": {
+        "color": "#023431",
+        "start_frame": 22870,
+        "end_frame": 23079,
+        "start_ts": 381.1666666666667,
+        "end_ts": 384.65,
+        "color_num": 176,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#c2c2c2": {
+        "color": "#c2c2c2",
+        "start_frame": 23080,
+        "end_frame": 23199,
+        "start_ts": 384.6666666666667,
+        "end_ts": 386.65,
+        "color_num": 177,
+        "transcript": [
+            [
+                "\u05dc\u05de\u05d3",
+                0.4549826383590698
+            ]
+        ]
+    },
+    "#705dac": {
+        "color": "#705dac",
+        "start_frame": 23200,
+        "end_frame": 23349,
+        "start_ts": 386.6666666666667,
+        "end_ts": 389.15,
+        "color_num": 178,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.6590240001678467
+            ]
+        ]
+    },
+    "#0cb574": {
+        "color": "#0cb574",
+        "start_frame": 23350,
+        "end_frame": 23469,
+        "start_ts": 389.1666666666667,
+        "end_ts": 391.15,
+        "color_num": 179,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.8929309248924255
+            ]
+        ]
+    },
+    "#086881": {
+        "color": "#086881",
+        "start_frame": 23470,
+        "end_frame": 23589,
+        "start_ts": 391.1666666666667,
+        "end_ts": 393.15,
+        "color_num": 180,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#0a993d": {
+        "color": "#0a993d",
+        "start_frame": 23590,
+        "end_frame": 23679,
+        "start_ts": 393.1666666666667,
+        "end_ts": 394.65,
+        "color_num": 181,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9426562190055847
+            ]
+        ]
+    },
+    "#07552e": {
+        "color": "#07552e",
+        "start_frame": 23680,
+        "end_frame": 23799,
+        "start_ts": 394.6666666666667,
+        "end_ts": 396.65,
+        "color_num": 182,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.8936294317245483
+            ]
+        ]
+    },
+    "#444ba3": {
+        "color": "#444ba3",
+        "start_frame": 23800,
+        "end_frame": 23919,
+        "start_ts": 396.6666666666667,
+        "end_ts": 398.65,
+        "color_num": 183,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e2deec": {
+        "color": "#e2deec",
+        "start_frame": 23920,
+        "end_frame": 24039,
+        "start_ts": 398.6666666666667,
+        "end_ts": 400.65,
+        "color_num": 184,
+        "transcript": []
+    },
+    "#989103": {
+        "color": "#989103",
+        "start_frame": 24040,
+        "end_frame": 24219,
+        "start_ts": 400.6666666666667,
+        "end_ts": 403.65,
+        "color_num": 185,
+        "transcript": [
+            [
+                "\u05d7\u05d1\u05dc",
+                0.2188468724489212
+            ]
+        ]
+    },
+    "#efdccb": {
+        "color": "#efdccb",
+        "start_frame": 24220,
+        "end_frame": 24429,
+        "start_ts": 403.6666666666667,
+        "end_ts": 407.15,
+        "color_num": 186,
+        "transcript": [
+            [
+                "\u05d1\u05d9\u05d9",
+                0.2980664074420929
+            ]
+        ]
+    },
+    "#f0a8be": {
+        "color": "#f0a8be",
+        "start_frame": 24430,
+        "end_frame": 24519,
+        "start_ts": 407.1666666666667,
+        "end_ts": 408.65,
+        "color_num": 187,
+        "transcript": [
+            [
+                "\u05e0\u05d5\u05e8\u05d5\u05ea",
+                0.6165907979011536
+            ]
+        ]
+    },
+    "#1f4e20": {
+        "color": "#1f4e20",
+        "start_frame": 24520,
+        "end_frame": 24639,
+        "start_ts": 408.6666666666667,
+        "end_ts": 410.65,
+        "color_num": 188,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9422451853752136
+            ]
+        ]
+    },
+    "#a60c2e": {
+        "color": "#a60c2e",
+        "start_frame": 24640,
+        "end_frame": 24759,
+        "start_ts": 410.6666666666667,
+        "end_ts": 412.65,
+        "color_num": 189,
+        "transcript": [
+            [
+                "\u05d0\u05d3\u05d5\u05dd",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#089719": {
+        "color": "#089719",
+        "start_frame": 24760,
+        "end_frame": 24879,
+        "start_ts": 412.6666666666667,
+        "end_ts": 414.65,
+        "color_num": 190,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9442147016525269
+            ]
+        ]
+    },
+    "#c63031": {
+        "color": "#c63031",
+        "start_frame": 24880,
+        "end_frame": 25089,
+        "start_ts": 414.6666666666667,
+        "end_ts": 418.15,
+        "color_num": 191,
+        "transcript": [
+            [
+                "\u05d0\u05d3\u05d5\u05dd",
+                0.9506359696388245
+            ]
+        ]
+    },
+    "#3e3e3e": {
+        "color": "#3e3e3e",
+        "start_frame": 25090,
+        "end_frame": 25179,
+        "start_ts": 418.1666666666667,
+        "end_ts": 419.65,
+        "color_num": 192,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05d5\u05e8",
+                0.8232187628746033
+            ]
+        ]
+    },
+    "#07372b": {
+        "color": "#07372b",
+        "start_frame": 25180,
+        "end_frame": 25299,
+        "start_ts": 419.6666666666667,
+        "end_ts": 421.65,
+        "color_num": 193,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9400792717933655
+            ]
+        ]
+    },
+    "#f0d8d6": {
+        "color": "#f0d8d6",
+        "start_frame": 25300,
+        "end_frame": 25509,
+        "start_ts": 421.6666666666667,
+        "end_ts": 425.15,
+        "color_num": 194,
+        "transcript": [
+            [
+                "\u05d1\u05e9",
+                0.13061942160129547
+            ]
+        ]
+    },
+    "#a39dcd": {
+        "color": "#a39dcd",
+        "start_frame": 25510,
+        "end_frame": 25659,
+        "start_ts": 425.1666666666667,
+        "end_ts": 427.65,
+        "color_num": 195,
+        "transcript": [
+            [
+                "\u05dc\u05d9\u05dc\u05da",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e1dfec": {
+        "color": "#e1dfec",
+        "start_frame": 25660,
+        "end_frame": 25809,
+        "start_ts": 427.6666666666667,
+        "end_ts": 430.15,
+        "color_num": 196,
+        "transcript": []
+    },
+    "#ac98cb": {
+        "color": "#ac98cb",
+        "start_frame": 25810,
+        "end_frame": 25959,
+        "start_ts": 430.1666666666667,
+        "end_ts": 432.65,
+        "color_num": 197,
+        "transcript": [
+            [
+                "\u05dc\u05d9\u05dc\u05da",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#b395c7": {
+        "color": "#b395c7",
+        "start_frame": 25960,
+        "end_frame": 26079,
+        "start_ts": 432.6666666666667,
+        "end_ts": 434.65,
+        "color_num": 198,
+        "transcript": [
+            [
+                "\u05dc\u05d9\u05dc\u05da",
+                0.5577467083930969
+            ]
+        ]
+    },
+    "#c9ecd4": {
+        "color": "#c9ecd4",
+        "start_frame": 26080,
+        "end_frame": 26199,
+        "start_ts": 434.6666666666667,
+        "end_ts": 436.65,
+        "color_num": 199,
+        "transcript": [
+            [
+                "\u05de\u05e0\u05d3\u05d4",
+                0.22566992044448853
+            ]
+        ]
+    },
+    "#ecdbe1": {
+        "color": "#ecdbe1",
+        "start_frame": 26200,
+        "end_frame": 26349,
+        "start_ts": 436.6666666666667,
+        "end_ts": 439.15,
+        "color_num": 200,
+        "transcript": []
+    },
+    "#5ebdb9": {
+        "color": "#5ebdb9",
+        "start_frame": 26350,
+        "end_frame": 26469,
+        "start_ts": 439.1666666666667,
+        "end_ts": 441.15,
+        "color_num": 201,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#631761": {
+        "color": "#631761",
+        "start_frame": 26470,
+        "end_frame": 26589,
+        "start_ts": 441.1666666666667,
+        "end_ts": 443.15,
+        "color_num": 202,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#3d1e19": {
+        "color": "#3d1e19",
+        "start_frame": 26590,
+        "end_frame": 26679,
+        "start_ts": 443.1666666666667,
+        "end_ts": 444.65,
+        "color_num": 203,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#41411b": {
+        "color": "#41411b",
+        "start_frame": 26680,
+        "end_frame": 26859,
+        "start_ts": 444.6666666666667,
+        "end_ts": 447.65,
+        "color_num": 204,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9368937611579895
+            ]
+        ]
+    },
+    "#e6dce7": {
+        "color": "#e6dce7",
+        "start_frame": 26860,
+        "end_frame": 27009,
+        "start_ts": 447.6666666666667,
+        "end_ts": 450.15,
+        "color_num": 205,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.5975804924964905
+            ]
+        ]
+    },
+    "#956503": {
+        "color": "#956503",
+        "start_frame": 27010,
+        "end_frame": 27159,
+        "start_ts": 450.1666666666667,
+        "end_ts": 452.65,
+        "color_num": 206,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.6247313022613525
+            ]
+        ]
+    },
+    "#96e556": {
+        "color": "#96e556",
+        "start_frame": 27160,
+        "end_frame": 27249,
+        "start_ts": 452.6666666666667,
+        "end_ts": 454.15,
+        "color_num": 207,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9417181015014648
+            ]
+        ]
+    },
+    "#dae2ed": {
+        "color": "#dae2ed",
+        "start_frame": 27250,
+        "end_frame": 27519,
+        "start_ts": 454.1666666666667,
+        "end_ts": 458.65,
+        "color_num": 208,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.7501434087753296
+            ]
+        ]
+    },
+    "#8dc407": {
+        "color": "#8dc407",
+        "start_frame": 27520,
+        "end_frame": 27639,
+        "start_ts": 458.6666666666667,
+        "end_ts": 460.65,
+        "color_num": 209,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9417585134506226
+            ]
+        ]
+    },
+    "#6e6e6e": {
+        "color": "#6e6e6e",
+        "start_frame": 27640,
+        "end_frame": 27729,
+        "start_ts": 460.6666666666667,
+        "end_ts": 462.15,
+        "color_num": 210,
+        "transcript": []
+    },
+    "#0f829d": {
+        "color": "#0f829d",
+        "start_frame": 27730,
+        "end_frame": 27849,
+        "start_ts": 462.1666666666667,
+        "end_ts": 464.15,
+        "color_num": 211,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.318346232175827
+            ]
+        ]
+    },
+    "#c8ebe4": {
+        "color": "#c8ebe4",
+        "start_frame": 27850,
+        "end_frame": 27999,
+        "start_ts": 464.1666666666667,
+        "end_ts": 466.65,
+        "color_num": 212,
+        "transcript": []
+    },
+    "#f37a71": {
+        "color": "#f37a71",
+        "start_frame": 28000,
+        "end_frame": 28149,
+        "start_ts": 466.6666666666667,
+        "end_ts": 469.15,
+        "color_num": 213,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05e8\u05e1\u05e7",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#d6ce07": {
+        "color": "#d6ce07",
+        "start_frame": 28150,
+        "end_frame": 28239,
+        "start_ts": 469.1666666666667,
+        "end_ts": 470.65,
+        "color_num": 214,
+        "transcript": [
+            [
+                "\u05e6\u05d4\u05d5\u05d1",
+                0.28801000118255615
+            ]
+        ]
+    },
+    "#045141": {
+        "color": "#045141",
+        "start_frame": 28240,
+        "end_frame": 28359,
+        "start_ts": 470.6666666666667,
+        "end_ts": 472.65,
+        "color_num": 215,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9391828775405884
+            ]
+        ]
+    },
+    "#043438": {
+        "color": "#043438",
+        "start_frame": 28360,
+        "end_frame": 28539,
+        "start_ts": 472.6666666666667,
+        "end_ts": 475.65,
+        "color_num": 216,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#7be0b4": {
+        "color": "#7be0b4",
+        "start_frame": 28540,
+        "end_frame": 28659,
+        "start_ts": 475.6666666666667,
+        "end_ts": 477.65,
+        "color_num": 217,
+        "transcript": [
+            [
+                "\u05ea\u05d5\u05db\u05d9\u05dd",
+                0.7674022912979126
+            ]
+        ]
+    },
+    "#3071c1": {
+        "color": "#3071c1",
+        "start_frame": 28660,
+        "end_frame": 28779,
+        "start_ts": 477.6666666666667,
+        "end_ts": 479.65,
+        "color_num": 218,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.39231133460998535
+            ]
+        ]
+    },
+    "#babfdd": {
+        "color": "#babfdd",
+        "start_frame": 28780,
+        "end_frame": 28989,
+        "start_ts": 479.6666666666667,
+        "end_ts": 483.15,
+        "color_num": 219,
+        "transcript": [
+            [
+                "\u05dc\u05d9\u05dc\u05da",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#eed9d6": {
+        "color": "#eed9d6",
+        "start_frame": 28990,
+        "end_frame": 29139,
+        "start_ts": 483.1666666666667,
+        "end_ts": 485.65,
+        "color_num": 220,
+        "transcript": [
+            [
+                "\u05d1\u05d9\u05d9\u05dc\u05d9\u05e1",
+                0.21417248249053955
+            ]
+        ]
+    },
+    "#aeb507": {
+        "color": "#aeb507",
+        "start_frame": 29140,
+        "end_frame": 29349,
+        "start_ts": 485.6666666666667,
+        "end_ts": 489.15,
+        "color_num": 221,
+        "transcript": [
+            [
+                "\u05d7\u05e8\u05d3\u05dc",
+                0.7976263761520386
+            ]
+        ]
+    },
+    "#584392": {
+        "color": "#584392",
+        "start_frame": 29350,
+        "end_frame": 29469,
+        "start_ts": 489.1666666666667,
+        "end_ts": 491.15,
+        "color_num": 222,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.8440362215042114
+            ]
+        ]
+    },
+    "#033824": {
+        "color": "#033824",
+        "start_frame": 29470,
+        "end_frame": 29589,
+        "start_ts": 491.1666666666667,
+        "end_ts": 493.15,
+        "color_num": 223,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.6170356869697571
+            ]
+        ]
+    },
+    "#8c2171": {
+        "color": "#8c2171",
+        "start_frame": 29590,
+        "end_frame": 29679,
+        "start_ts": 493.1666666666667,
+        "end_ts": 494.65,
+        "color_num": 224,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.8872202038764954
+            ]
+        ]
+    },
+    "#edd9d8": {
+        "color": "#edd9d8",
+        "start_frame": 29680,
+        "end_frame": 29799,
+        "start_ts": 494.6666666666667,
+        "end_ts": 496.65,
+        "color_num": 225,
+        "transcript": []
+    },
+    "#e579ab": {
+        "color": "#e579ab",
+        "start_frame": 29950,
+        "end_frame": 30069,
+        "start_ts": 499.1666666666667,
+        "end_ts": 501.15,
+        "color_num": 227,
+        "transcript": [
+            [
+                "\u05d3\u05d5\u05e8\u05d5\u05df",
+                0.39114639163017273
+            ]
+        ]
+    },
+    "#473f1b": {
+        "color": "#473f1b",
+        "start_frame": 30070,
+        "end_frame": 30189,
+        "start_ts": 501.1666666666667,
+        "end_ts": 503.15,
+        "color_num": 228,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.7045355439186096
+            ]
+        ]
+    },
+    "#60bcb1": {
+        "color": "#60bcb1",
+        "start_frame": 30190,
+        "end_frame": 30339,
+        "start_ts": 503.1666666666667,
+        "end_ts": 505.65,
+        "color_num": 229,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#f4aaa9": {
+        "color": "#f4aaa9",
+        "start_frame": 30340,
+        "end_frame": 30489,
+        "start_ts": 505.6666666666667,
+        "end_ts": 508.15,
+        "color_num": 230,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.46708089113235474
+            ]
+        ]
+    },
+    "#438b0d": {
+        "color": "#438b0d",
+        "start_frame": 30490,
+        "end_frame": 30609,
+        "start_ts": 508.1666666666667,
+        "end_ts": 510.15,
+        "color_num": 231,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.940055251121521
+            ]
+        ]
+    },
+    "#dc5750": {
+        "color": "#dc5750",
+        "start_frame": 30610,
+        "end_frame": 30759,
+        "start_ts": 510.1666666666667,
+        "end_ts": 512.65,
+        "color_num": 232,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.8673706650733948
+            ]
+        ]
+    },
+    "#9dc8f2": {
+        "color": "#9dc8f2",
+        "start_frame": 30760,
+        "end_frame": 30939,
+        "start_ts": 512.6666666666666,
+        "end_ts": 515.65,
+        "color_num": 233,
+        "transcript": []
+    },
+    "#f6be07": {
+        "color": "#f6be07",
+        "start_frame": 30940,
+        "end_frame": 31059,
+        "start_ts": 515.6666666666666,
+        "end_ts": 517.65,
+        "color_num": 234,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05d1",
+                0.39435797929763794
+            ]
+        ]
+    },
+    "#515e18": {
+        "color": "#515e18",
+        "start_frame": 31060,
+        "end_frame": 31179,
+        "start_ts": 517.6666666666666,
+        "end_ts": 519.65,
+        "color_num": 235,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9429168701171875
+            ]
+        ]
+    },
+    "#3c2015": {
+        "color": "#3c2015",
+        "start_frame": 31180,
+        "end_frame": 31299,
+        "start_ts": 519.6666666666666,
+        "end_ts": 521.65,
+        "color_num": 236,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.5293927192687988
+            ]
+        ]
+    },
+    "#ac8703": {
+        "color": "#ac8703",
+        "start_frame": 31300,
+        "end_frame": 31449,
+        "start_ts": 521.6666666666666,
+        "end_ts": 524.15,
+        "color_num": 237,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.7777639627456665
+            ]
+        ]
+    },
+    "#efdec4": {
+        "color": "#efdec4",
+        "start_frame": 31450,
+        "end_frame": 31599,
+        "start_ts": 524.1666666666666,
+        "end_ts": 526.65,
+        "color_num": 238,
+        "transcript": [
+            [
+                "\u05e7\u05e8\u05dd",
+                0.25178849697113037
+            ]
+        ]
+    },
+    "#b862ab": {
+        "color": "#b862ab",
+        "start_frame": 31600,
+        "end_frame": 31719,
+        "start_ts": 526.6666666666666,
+        "end_ts": 528.65,
+        "color_num": 239,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.1549351066350937
+            ]
+        ]
+    },
+    "#e7ec85": {
+        "color": "#e7ec85",
+        "start_frame": 31720,
+        "end_frame": 31869,
+        "start_ts": 528.6666666666666,
+        "end_ts": 531.15,
+        "color_num": 240,
+        "transcript": [
+            [
+                "\u05e6\u05d4\u05d5\u05d1",
+                0.6975027918815613
+            ]
+        ]
+    },
+    "#3b9cbc": {
+        "color": "#3b9cbc",
+        "start_frame": 31870,
+        "end_frame": 31989,
+        "start_ts": 531.1666666666666,
+        "end_ts": 533.15,
+        "color_num": 241,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#4a0d39": {
+        "color": "#4a0d39",
+        "start_frame": 31990,
+        "end_frame": 32079,
+        "start_ts": 533.1666666666666,
+        "end_ts": 534.65,
+        "color_num": 242,
+        "transcript": []
+    },
+    "#098b8b": {
+        "color": "#098b8b",
+        "start_frame": 32080,
+        "end_frame": 32259,
+        "start_ts": 534.6666666666666,
+        "end_ts": 537.65,
+        "color_num": 243,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#d2e7ec": {
+        "color": "#d2e7ec",
+        "start_frame": 32260,
+        "end_frame": 32349,
+        "start_ts": 537.6666666666666,
+        "end_ts": 539.15,
+        "color_num": 244,
+        "transcript": []
+    },
+    "#0ea9a5": {
+        "color": "#0ea9a5",
+        "start_frame": 32350,
+        "end_frame": 32469,
+        "start_ts": 539.1666666666666,
+        "end_ts": 541.15,
+        "color_num": 245,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#65b7c5": {
+        "color": "#65b7c5",
+        "start_frame": 32470,
+        "end_frame": 32589,
+        "start_ts": 541.1666666666666,
+        "end_ts": 543.15,
+        "color_num": 246,
+        "transcript": [
+            [
+                "\u05d0\u05d5\u05db\u05dc\u05ea",
+                0.4753169119358063
+            ]
+        ]
+    },
+    "#366a15": {
+        "color": "#366a15",
+        "start_frame": 32590,
+        "end_frame": 32679,
+        "start_ts": 543.1666666666666,
+        "end_ts": 544.65,
+        "color_num": 247,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9421522617340088
+            ]
+        ]
+    },
+    "#064a5d": {
+        "color": "#064a5d",
+        "start_frame": 32680,
+        "end_frame": 32799,
+        "start_ts": 544.6666666666666,
+        "end_ts": 546.65,
+        "color_num": 248,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#857005": {
+        "color": "#857005",
+        "start_frame": 32800,
+        "end_frame": 32919,
+        "start_ts": 546.6666666666666,
+        "end_ts": 548.65,
+        "color_num": 249,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.45490533113479614
+            ]
+        ]
+    },
+    "#08753e": {
+        "color": "#08753e",
+        "start_frame": 32920,
+        "end_frame": 33039,
+        "start_ts": 548.6666666666666,
+        "end_ts": 550.65,
+        "color_num": 250,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9369127154350281
+            ]
+        ]
+    },
+    "#23a1b7": {
+        "color": "#23a1b7",
+        "start_frame": 33040,
+        "end_frame": 33129,
+        "start_ts": 550.6666666666666,
+        "end_ts": 552.15,
+        "color_num": 251,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.43792152404785156
+            ]
+        ]
+    },
+    "#e7dae4": {
+        "color": "#e7dae4",
+        "start_frame": 33130,
+        "end_frame": 33279,
+        "start_ts": 552.1666666666666,
+        "end_ts": 554.65,
+        "color_num": 252,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.741711437702179
+            ]
+        ]
+    },
+    "#470c3c": {
+        "color": "#470c3c",
+        "start_frame": 33280,
+        "end_frame": 33399,
+        "start_ts": 554.6666666666666,
+        "end_ts": 556.65,
+        "color_num": 253,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#032d57": {
+        "color": "#032d57",
+        "start_frame": 33400,
+        "end_frame": 33489,
+        "start_ts": 556.6666666666666,
+        "end_ts": 558.15,
+        "color_num": 254,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#84a7e1": {
+        "color": "#84a7e1",
+        "start_frame": 33490,
+        "end_frame": 33609,
+        "start_ts": 558.1666666666666,
+        "end_ts": 560.15,
+        "color_num": 255,
+        "transcript": []
+    },
+    "#a8c4f3": {
+        "color": "#a8c4f3",
+        "start_frame": 33610,
+        "end_frame": 33699,
+        "start_ts": 560.1666666666666,
+        "end_ts": 561.65,
+        "color_num": 256,
+        "transcript": []
+    },
+    "#075e94": {
+        "color": "#075e94",
+        "start_frame": 33700,
+        "end_frame": 33819,
+        "start_ts": 561.6666666666666,
+        "end_ts": 563.65,
+        "color_num": 257,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#673e8c": {
+        "color": "#673e8c",
+        "start_frame": 33820,
+        "end_frame": 33909,
+        "start_ts": 563.6666666666666,
+        "end_ts": 565.15,
+        "color_num": 258,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.8170590996742249
+            ]
+        ]
+    },
+    "#a50640": {
+        "color": "#a50640",
+        "start_frame": 33910,
+        "end_frame": 34089,
+        "start_ts": 565.1666666666666,
+        "end_ts": 568.15,
+        "color_num": 259,
+        "transcript": [
+            [
+                "\u05d0\u05d3\u05d5\u05dd",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#72b4cc": {
+        "color": "#72b4cc",
+        "start_frame": 34090,
+        "end_frame": 34179,
+        "start_ts": 568.1666666666666,
+        "end_ts": 569.65,
+        "color_num": 260,
+        "transcript": []
+    },
+    "#3c183c": {
+        "color": "#3c183c",
+        "start_frame": 34180,
+        "end_frame": 34299,
+        "start_ts": 569.6666666666666,
+        "end_ts": 571.65,
+        "color_num": 261,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.5411444902420044
+            ]
+        ]
+    },
+    "#4f071f": {
+        "color": "#4f071f",
+        "start_frame": 34300,
+        "end_frame": 34419,
+        "start_ts": 571.6666666666666,
+        "end_ts": 573.65,
+        "color_num": 262,
+        "transcript": [
+            [
+                "\u05de\u05d5\u05e8\u05d3\u05d5",
+                0.4169575572013855
+            ]
+        ]
+    },
+    "#097ac0": {
+        "color": "#097ac0",
+        "start_frame": 34420,
+        "end_frame": 34509,
+        "start_ts": 573.6666666666666,
+        "end_ts": 575.15,
+        "color_num": 263,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#93d4ce": {
+        "color": "#93d4ce",
+        "start_frame": 34510,
+        "end_frame": 34659,
+        "start_ts": 575.1666666666666,
+        "end_ts": 577.65,
+        "color_num": 264,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.4518517851829529
+            ]
+        ]
+    },
+    "#4b92d0": {
+        "color": "#4b92d0",
+        "start_frame": 34660,
+        "end_frame": 34839,
+        "start_ts": 577.6666666666666,
+        "end_ts": 580.65,
+        "color_num": 265,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05dc\u05ea",
+                0.33225560188293457
+            ]
+        ]
+    },
+    "#8f9704": {
+        "color": "#8f9704",
+        "start_frame": 34840,
+        "end_frame": 34989,
+        "start_ts": 580.6666666666666,
+        "end_ts": 583.15,
+        "color_num": 266,
+        "transcript": [
+            [
+                "\u05d7\u05e8\u05d3\u05d4",
+                0.4574790596961975
+            ]
+        ]
+    },
+    "#087450": {
+        "color": "#087450",
+        "start_frame": 34990,
+        "end_frame": 35109,
+        "start_ts": 583.1666666666666,
+        "end_ts": 585.15,
+        "color_num": 267,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9419860243797302
+            ]
+        ]
+    },
+    "#0b9466": {
+        "color": "#0b9466",
+        "start_frame": 35110,
+        "end_frame": 35229,
+        "start_ts": 585.1666666666666,
+        "end_ts": 587.15,
+        "color_num": 268,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9421622157096863
+            ]
+        ]
+    },
+    "#730c43": {
+        "color": "#730c43",
+        "start_frame": 35230,
+        "end_frame": 35379,
+        "start_ts": 587.1666666666666,
+        "end_ts": 589.65,
+        "color_num": 269,
+        "transcript": [
+            [
+                "\u05de\u05d2\u05e0\u05d8\u05d4",
+                0.27456584572792053
+            ]
+        ]
+    },
+    "#f0b289": {
+        "color": "#f0b289",
+        "start_frame": 35380,
+        "end_frame": 35589,
+        "start_ts": 589.6666666666666,
+        "end_ts": 593.15,
+        "color_num": 270,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05e8\u05e1\u05e7",
+                0.9179617166519165
+            ]
+        ]
+    },
+    "#d4e5ec": {
+        "color": "#d4e5ec",
+        "start_frame": 35590,
+        "end_frame": 35829,
+        "start_ts": 593.1666666666666,
+        "end_ts": 597.15,
+        "color_num": 271,
+        "transcript": [
+            [
+                "\u05d0\u05e4\u05d5\u05e8",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#231e61": {
+        "color": "#231e61",
+        "start_frame": 35830,
+        "end_frame": 35919,
+        "start_ts": 597.1666666666666,
+        "end_ts": 598.65,
+        "color_num": 272,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#770d24": {
+        "color": "#770d24",
+        "start_frame": 35920,
+        "end_frame": 36069,
+        "start_ts": 598.6666666666666,
+        "end_ts": 601.15,
+        "color_num": 273,
+        "transcript": [
+            [
+                "\u05d1\u05d5\u05e8\u05d3\u05d5",
+                0.6706365346908569
+            ]
+        ]
+    },
+    "#0bac9a": {
+        "color": "#0bac9a",
+        "start_frame": 36070,
+        "end_frame": 36189,
+        "start_ts": 601.1666666666666,
+        "end_ts": 603.15,
+        "color_num": 274,
+        "transcript": [
+            [
+                "\u05ea\u05d5\u05db\u05d9",
+                0.7315197587013245
+            ]
+        ]
+    },
+    "#93d5cb": {
+        "color": "#93d5cb",
+        "start_frame": 36190,
+        "end_frame": 36339,
+        "start_ts": 603.1666666666666,
+        "end_ts": 605.65,
+        "color_num": 275,
+        "transcript": [
+            [
+                "\u05de\u05e0\u05d3\u05d4",
+                0.25806111097335815
+            ]
+        ]
+    },
+    "#7d83c1": {
+        "color": "#7d83c1",
+        "start_frame": 36340,
+        "end_frame": 36519,
+        "start_ts": 605.6666666666666,
+        "end_ts": 608.65,
+        "color_num": 276,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#f5e585": {
+        "color": "#f5e585",
+        "start_frame": 36520,
+        "end_frame": 36669,
+        "start_ts": 608.6666666666666,
+        "end_ts": 611.15,
+        "color_num": 277,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05d1",
+                0.4632469117641449
+            ]
+        ]
+    },
+    "#85277d": {
+        "color": "#85277d",
+        "start_frame": 36670,
+        "end_frame": 36789,
+        "start_ts": 611.1666666666666,
+        "end_ts": 613.15,
+        "color_num": 278,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.3923024535179138
+            ]
+        ]
+    },
+    "#afdd3f": {
+        "color": "#afdd3f",
+        "start_frame": 36790,
+        "end_frame": 36939,
+        "start_ts": 613.1666666666666,
+        "end_ts": 615.65,
+        "color_num": 279,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9412853121757507
+            ]
+        ]
+    },
+    "#0a8e79": {
+        "color": "#0a8e79",
+        "start_frame": 36940,
+        "end_frame": 37089,
+        "start_ts": 615.6666666666666,
+        "end_ts": 618.15,
+        "color_num": 280,
+        "transcript": [
+            [
+                "\u05ea\u05d5\u05db\u05d9\u05dd",
+                0.5082268714904785
+            ]
+        ]
+    },
+    "#087059": {
+        "color": "#087059",
+        "start_frame": 37090,
+        "end_frame": 37239,
+        "start_ts": 618.1666666666666,
+        "end_ts": 620.65,
+        "color_num": 281,
+        "transcript": [
+            [
+                "\u05ea\u05d5\u05db\u05d9\u05dd",
+                0.3819628059864044
+            ]
+        ]
+    },
+    "#79c541": {
+        "color": "#79c541",
+        "start_frame": 37240,
+        "end_frame": 37359,
+        "start_ts": 620.6666666666666,
+        "end_ts": 622.65,
+        "color_num": 282,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9420879483222961
+            ]
+        ]
+    },
+    "#5f8319": {
+        "color": "#5f8319",
+        "start_frame": 37360,
+        "end_frame": 37479,
+        "start_ts": 622.6666666666666,
+        "end_ts": 624.65,
+        "color_num": 283,
+        "transcript": []
+    },
+    "#48cf70": {
+        "color": "#48cf70",
+        "start_frame": 37480,
+        "end_frame": 37599,
+        "start_ts": 624.6666666666666,
+        "end_ts": 626.65,
+        "color_num": 284,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.6064402461051941
+            ]
+        ]
+    },
+    "#c1aa04": {
+        "color": "#c1aa04",
+        "start_frame": 37600,
+        "end_frame": 37779,
+        "start_ts": 626.6666666666666,
+        "end_ts": 629.65,
+        "color_num": 285,
+        "transcript": []
+    },
+    "#f8a9a2": {
+        "color": "#f8a9a2",
+        "start_frame": 37780,
+        "end_frame": 37899,
+        "start_ts": 629.6666666666666,
+        "end_ts": 631.65,
+        "color_num": 286,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#9fcddc": {
+        "color": "#9fcddc",
+        "start_frame": 37900,
+        "end_frame": 38019,
+        "start_ts": 631.6666666666666,
+        "end_ts": 633.65,
+        "color_num": 287,
+        "transcript": []
+    },
+    "#076684": {
+        "color": "#076684",
+        "start_frame": 38020,
+        "end_frame": 38139,
+        "start_ts": 633.6666666666666,
+        "end_ts": 635.65,
+        "color_num": 288,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#2b2c1e": {
+        "color": "#2b2c1e",
+        "start_frame": 38140,
+        "end_frame": 38289,
+        "start_ts": 635.6666666666666,
+        "end_ts": 638.15,
+        "color_num": 289,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.6510615348815918
+            ]
+        ]
+    },
+    "#44401b": {
+        "color": "#44401b",
+        "start_frame": 38290,
+        "end_frame": 38439,
+        "start_ts": 638.1666666666666,
+        "end_ts": 640.65,
+        "color_num": 290,
+        "transcript": [
+            [
+                "\u05e9\u05dc\u05d5\u05dd",
+                0.37143680453300476
+            ]
+        ]
+    },
+    "#39193e": {
+        "color": "#39193e",
+        "start_frame": 38440,
+        "end_frame": 38529,
+        "start_ts": 640.6666666666666,
+        "end_ts": 642.15,
+        "color_num": 291,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#e3acd6": {
+        "color": "#e3acd6",
+        "start_frame": 38530,
+        "end_frame": 38649,
+        "start_ts": 642.1666666666666,
+        "end_ts": 644.15,
+        "color_num": 292,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#5f1b68": {
+        "color": "#5f1b68",
+        "start_frame": 38650,
+        "end_frame": 38739,
+        "start_ts": 644.1666666666666,
+        "end_ts": 645.65,
+        "color_num": 293,
+        "transcript": []
+    },
+    "#6f0f4c": {
+        "color": "#6f0f4c",
+        "start_frame": 38740,
+        "end_frame": 38949,
+        "start_ts": 645.6666666666666,
+        "end_ts": 649.15,
+        "color_num": 294,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.768191397190094
+            ]
+        ]
+    },
+    "#581f6c": {
+        "color": "#581f6c",
+        "start_frame": 38950,
+        "end_frame": 39069,
+        "start_ts": 649.1666666666666,
+        "end_ts": 651.15,
+        "color_num": 295,
+        "transcript": []
+    },
+    "#c55f8f": {
+        "color": "#c55f8f",
+        "start_frame": 39070,
+        "end_frame": 39159,
+        "start_ts": 651.1666666666666,
+        "end_ts": 652.65,
+        "color_num": 296,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.21049970388412476
+            ]
+        ]
+    },
+    "#e48186": {
+        "color": "#e48186",
+        "start_frame": 39160,
+        "end_frame": 39309,
+        "start_ts": 652.6666666666666,
+        "end_ts": 655.15,
+        "color_num": 297,
+        "transcript": []
+    },
+    "#595a14": {
+        "color": "#595a14",
+        "start_frame": 39310,
+        "end_frame": 39399,
+        "start_ts": 655.1666666666666,
+        "end_ts": 656.65,
+        "color_num": 298,
+        "transcript": []
+    },
+    "#f4b706": {
+        "color": "#f4b706",
+        "start_frame": 39400,
+        "end_frame": 39549,
+        "start_ts": 656.6666666666666,
+        "end_ts": 659.15,
+        "color_num": 299,
+        "transcript": [
+            [
+                "\u05e6\u05d4\u05d5\u05d1",
+                0.9307771325111389
+            ]
+        ]
+    },
+    "#0780ad": {
+        "color": "#0780ad",
+        "start_frame": 39550,
+        "end_frame": 39639,
+        "start_ts": 659.1666666666666,
+        "end_ts": 660.65,
+        "color_num": 300,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#077546": {
+        "color": "#077546",
+        "start_frame": 39640,
+        "end_frame": 39759,
+        "start_ts": 660.6666666666666,
+        "end_ts": 662.65,
+        "color_num": 301,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.2449246644973755
+            ]
+        ]
+    },
+    "#4b3a1e": {
+        "color": "#4b3a1e",
+        "start_frame": 39760,
+        "end_frame": 39849,
+        "start_ts": 662.6666666666666,
+        "end_ts": 664.15,
+        "color_num": 302,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.28422993421554565
+            ]
+        ]
+    },
+    "#bc619e": {
+        "color": "#bc619e",
+        "start_frame": 39850,
+        "end_frame": 39939,
+        "start_ts": 664.1666666666666,
+        "end_ts": 665.65,
+        "color_num": 303,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.7657604813575745
+            ]
+        ]
+    },
+    "#0b9271": {
+        "color": "#0b9271",
+        "start_frame": 39940,
+        "end_frame": 40089,
+        "start_ts": 665.6666666666666,
+        "end_ts": 668.15,
+        "color_num": 304,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9401392340660095
+            ]
+        ]
+    },
+    "#c7ede0": {
+        "color": "#c7ede0",
+        "start_frame": 40090,
+        "end_frame": 40209,
+        "start_ts": 668.1666666666666,
+        "end_ts": 670.15,
+        "color_num": 305,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.21357232332229614
+            ]
+        ]
+    },
+    "#c6eddb": {
+        "color": "#c6eddb",
+        "start_frame": 40210,
+        "end_frame": 40299,
+        "start_ts": 670.1666666666666,
+        "end_ts": 671.65,
+        "color_num": 306,
+        "transcript": []
+    },
+    "#cfa106": {
+        "color": "#cfa106",
+        "start_frame": 40300,
+        "end_frame": 40449,
+        "start_ts": 671.6666666666666,
+        "end_ts": 674.15,
+        "color_num": 307,
+        "transcript": [
+            [
+                "\u05d0\u05e8\u05d1\u05dc",
+                0.11871934682130814
+            ]
+        ]
+    },
+    "#4f2473": {
+        "color": "#4f2473",
+        "start_frame": 40450,
+        "end_frame": 40539,
+        "start_ts": 674.1666666666666,
+        "end_ts": 675.65,
+        "color_num": 308,
+        "transcript": [
+            [
+                "\u05e4\u05e1\u05d2\u05d5\u05ea",
+                0.5940834879875183
+            ]
+        ]
+    },
+    "#944d9b": {
+        "color": "#944d9b",
+        "start_frame": 40540,
+        "end_frame": 40689,
+        "start_ts": 675.6666666666666,
+        "end_ts": 678.15,
+        "color_num": 309,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9389104843139648
+            ]
+        ]
+    },
+    "#54b003": {
+        "color": "#54b003",
+        "start_frame": 40690,
+        "end_frame": 40779,
+        "start_ts": 678.1666666666666,
+        "end_ts": 679.65,
+        "color_num": 310,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9394134879112244
+            ]
+        ]
+    },
+    "#c8badd": {
+        "color": "#c8badd",
+        "start_frame": 40780,
+        "end_frame": 40959,
+        "start_ts": 679.6666666666666,
+        "end_ts": 682.65,
+        "color_num": 311,
+        "transcript": [
+            [
+                "\u05de\u05dc\u05da",
+                0.27932900190353394
+            ]
+        ]
+    },
+    "#054e54": {
+        "color": "#054e54",
+        "start_frame": 40960,
+        "end_frame": 41079,
+        "start_ts": 682.6666666666666,
+        "end_ts": 684.65,
+        "color_num": 312,
+        "transcript": [
+            [
+                "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d6",
+                0.19854503870010376
+            ]
+        ]
+    },
+    "#7a4710": {
+        "color": "#7a4710",
+        "start_frame": 41080,
+        "end_frame": 41169,
+        "start_ts": 684.6666666666666,
+        "end_ts": 686.15,
+        "color_num": 313,
+        "transcript": []
+    },
+    "#b43978": {
+        "color": "#b43978",
+        "start_frame": 41170,
+        "end_frame": 41289,
+        "start_ts": 686.1666666666666,
+        "end_ts": 688.15,
+        "color_num": 314,
+        "transcript": [
+            [
+                "\u05d5\u05e8\u05d5\u05d3",
+                0.6016449928283691
+            ]
+        ]
+    },
+    "#f5dfa5": {
+        "color": "#f5dfa5",
+        "start_frame": 41290,
+        "end_frame": 41499,
+        "start_ts": 688.1666666666666,
+        "end_ts": 691.65,
+        "color_num": 315,
+        "transcript": [
+            [
+                "\u05e7\u05e8\u05dd",
+                0.19494584202766418
+            ]
+        ]
+    },
+    "#887ebd": {
+        "color": "#887ebd",
+        "start_frame": 41500,
+        "end_frame": 41619,
+        "start_ts": 691.6666666666666,
+        "end_ts": 693.65,
+        "color_num": 316,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.7880851030349731
+            ]
+        ]
+    },
+    "#c8ebe7": {
+        "color": "#c8ebe7",
+        "start_frame": 41620,
+        "end_frame": 41739,
+        "start_ts": 693.6666666666666,
+        "end_ts": 695.65,
+        "color_num": 317,
+        "transcript": [
+            [
+                "\u05ea\u05db\u05dc\u05ea",
+                0.505083441734314
+            ]
+        ]
+    },
+    "#f28506": {
+        "color": "#f28506",
+        "start_frame": 41740,
+        "end_frame": 41859,
+        "start_ts": 695.6666666666666,
+        "end_ts": 697.65,
+        "color_num": 318,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.829535722732544
+            ]
+        ]
+    },
+    "#284d19": {
+        "color": "#284d19",
+        "start_frame": 41860,
+        "end_frame": 41979,
+        "start_ts": 697.6666666666666,
+        "end_ts": 699.65,
+        "color_num": 319,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9422702789306641
+            ]
+        ]
+    },
+    "#b74705": {
+        "color": "#b74705",
+        "start_frame": 41980,
+        "end_frame": 42099,
+        "start_ts": 699.6666666666666,
+        "end_ts": 701.65,
+        "color_num": 320,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.3354488015174866
+            ]
+        ]
+    },
+    "#c37803": {
+        "color": "#c37803",
+        "start_frame": 42100,
+        "end_frame": 42219,
+        "start_ts": 701.6666666666666,
+        "end_ts": 703.65,
+        "color_num": 321,
+        "transcript": [
+            [
+                "\u05db\u05d3\u05d5\u05e8",
+                0.19506914913654327
+            ]
+        ]
+    },
+    "#714d1d": {
+        "color": "#714d1d",
+        "start_frame": 42220,
+        "end_frame": 42309,
+        "start_ts": 703.6666666666666,
+        "end_ts": 705.15,
+        "color_num": 322,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.22731822729110718
+            ]
+        ]
+    },
+    "#086670": {
+        "color": "#086670",
+        "start_frame": 42310,
+        "end_frame": 42459,
+        "start_ts": 705.1666666666666,
+        "end_ts": 707.65,
+        "color_num": 323,
+        "transcript": [
+            [
+                "\u05db\u05d7\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#0bb56c": {
+        "color": "#0bb56c",
+        "start_frame": 42460,
+        "end_frame": 42549,
+        "start_ts": 707.6666666666666,
+        "end_ts": 709.15,
+        "color_num": 324,
+        "transcript": [
+            [
+                "\u05d9\u05e8\u05d5\u05e7",
+                0.9425397515296936
+            ]
+        ]
+    },
+    "#2e2b1c": {
+        "color": "#2e2b1c",
+        "start_frame": 42550,
+        "end_frame": 42669,
+        "start_ts": 709.1666666666666,
+        "end_ts": 711.15,
+        "color_num": 325,
+        "transcript": [
+            [
+                "\u05d7\u05d5\u05dd",
+                0.6466389298439026
+            ]
+        ]
+    },
+    "#d9dfeb": {
+        "color": "#d9dfeb",
+        "start_frame": 42670,
+        "end_frame": 42789,
+        "start_ts": 711.1666666666666,
+        "end_ts": 713.15,
+        "color_num": 326,
+        "transcript": [
+            [
+                "\u05dc\u05d1\u05df",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#4b0833": {
+        "color": "#4b0833",
+        "start_frame": 42790,
+        "end_frame": 42909,
+        "start_ts": 713.1666666666666,
+        "end_ts": 715.15,
+        "color_num": 327,
+        "transcript": [
+            [
+                "\u05e1\u05d2\u05d5\u05dc",
+                0.9547106623649597
+            ]
+        ]
+    },
+    "#f5b16a": {
+        "color": "#f5b16a",
+        "start_frame": 42910,
+        "end_frame": 43149,
+        "start_ts": 715.1666666666666,
+        "end_ts": 719.15,
+        "color_num": 328,
+        "transcript": [
+            [
+                "\u05d0\u05d8\u05d5\u05dd",
+                0.26706865429878235
+            ]
+        ]
+    },
+    "#c83104": {
+        "color": "#c83104",
+        "start_frame": 43150,
+        "end_frame": 43269,
+        "start_ts": 719.1666666666666,
+        "end_ts": 721.15,
+        "color_num": 329,
+        "transcript": [
+            [
+                "\u05db\u05ea\u05d5\u05dd",
+                0.6022376418113708
+            ]
+        ]
+    },
+    "#64b3da": {
+        "color": "#64b3da",
+        "start_frame": 43270,
+        "end_frame": 43419,
+        "start_ts": 721.1666666666666,
+        "end_ts": 723.65,
+        "color_num": 330,
+        "transcript": []
+    },
+    "#959595": {
+        "color": "#959595",
+        "start_frame": 43420,
+        "end_frame": null,
+        "start_ts": 723.6666666666666,
+        "end_ts": null,
+        "color_num": 331
+    }
+}

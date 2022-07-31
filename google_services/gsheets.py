@@ -2,7 +2,7 @@ from __future__ import print_function
 import json
 import pandas as pd
 import os
-from common import utils
+from utils import common
 
 SCOPES = ['https://www.googleapis.com/auth/drive']
 SPREADSHEET_ID = "102gqwAE6OIiAcAbT0boNx20oaXvOdX0-2Oj_fKUOoLo"

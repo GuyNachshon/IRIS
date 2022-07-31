@@ -4,7 +4,7 @@ import os.path
 from googleapiclient.errors import HttpError
 import os
 from googleapiclient.http import MediaIoBaseDownload
-from common import utils
+from utils import common
 
 creds = os.environ["GOOGLE_APPLICATION_CREDENTIALS"]
 folder_id = os.environ["FOLDER_ID"]
